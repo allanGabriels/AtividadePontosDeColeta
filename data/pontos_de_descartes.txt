@@ -1,0 +1,50 @@
+1;plastico;Av. Brasil, n 123
+2;vidro;Rua Neo Alves Martins, n 456
+3;eletronico;Praca Raposo Tavares, n 789
+4;papel;Rua Arthur Thomas, n 321
+5;metal;Av. Horacio Raccanello, n 654
+6;organico;Rua Mandacaru, n 987
+7;plastico;Praca Rocha Pombo, n 159
+8;vidro;Av. Cerro Azul, n 753
+9;eletronico;Rua Itororo, n 852
+10;papel;Praca Deputado Renato Celidonio, n 741
+11;metal;Av. Guaiapo, n 369
+12;organico;Rua das Sibipirunas, n 258
+13;plastico;Praca Napoleao Moreira da Silva, n 147
+14;vidro;Av. Sao Paulo, n 951
+15;eletronico;Rua Joubert de Carvalho, n 753
+16;papel;Praca Farroupilha, n 852
+17;metal;Av. Alexandre Rasgulaeff, n 369
+18;organico;Rua Cristal, n 159
+19;plastico;Praca Sete de Setembro, n 741
+20;vidro;Av. Kakogawa, n 852
+21;eletronico;Rua Cidade de Leiria, n 963
+22;papel;Praca Vereador Jose Gomes, n 753
+23;metal;Av. Gastao Vidigal, n 147
+24;organico;Rua Guarani, n 369
+25;plastico;Praca Osvaldo Cruz, n 258
+26;vidro;Av. Luiz Teixeira Mendes, n 159
+27;eletronico;Rua Assai, n 741
+28;papel;Praca Sao Vicente, n 369
+29;metal;Av. Carlos Borges, n 258
+30;organico;Rua Flamingo, n 147
+31;plastico;Praca Padre Anchieta, n 753
+32;vidro;Av. Laguna, n 852
+33;eletronico;Rua Pitanga, n 963
+34;papel;Praca Barao do Rio Branco, n 369
+35;metal;Av. Advogado Horacio Raccanello Filho, n 258
+36;organico;Rua das Camelias, n 741
+37;plastico;Praca Emiliano Perneta, n 159
+38;vidro;Av. Carlos Correia Borges, n 753
+39;eletronico;Rua Dom Pedro II, n 852
+40;papel;Praca Megumu Tanaka, n 369
+41;metal;Av. Tuiuti, n 258
+42;organico;Rua Pioneiro Jose Domingos Fontanini, n 147
+43;plastico;Praca Pioneiro Alberto Paixao, n 741
+44;vidro;Av. das Industrias, n 852
+45;eletronico;Rua Pioneiro Alicio Arantes Campolina, n 963
+46;papel;Praca Monsenhor Bernardo Cnudde, n 369
+47;metal;Av. Senador Petronio Portela, n 258
+48;organico;Rua Pioneira Maria Lopes Bueno, n 147
+49;plastico;Praca Pioneiro Bernardo Meneghetti, n 753
+50;vidro;Av. Dr. Gastao Vidigal, n 852
